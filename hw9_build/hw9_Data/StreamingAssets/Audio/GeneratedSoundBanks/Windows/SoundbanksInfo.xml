@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>D:\Audiokinetic\Projects\hw9\</ProjectRoot>
+		<SourceFilesRoot>D:\Audiokinetic\Projects\hw9\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Audiokinetic\Projects\hw9\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Audiokinetic\Projects\hw9\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="680180671" Language="SFX" Hash="2721310414">
+			<ObjectPath>\SoundBanks\Default Work Unit\hw9</ObjectPath>
+			<ShortName>hw9</ShortName>
+			<Path>hw9.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3916118898" Name="Blend" ObjectPath="\Events\Default Work Unit\Blend" DurationType="OneShot" DurationMin="90.112000" DurationMax="90.112000">
+					<IncludedMemoryFiles>
+						<File Id="190179930" Language="SFX">
+							<ShortName>Ambience Ocean Shore 01.wav</ShortName>
+							<Path>SFX\Ambience Ocean Shore 01_10C4C929.wem</Path>
+						</File>
+						<File Id="259258599" Language="SFX">
+							<ShortName>Ambience Wind With Crickets 01.wav</ShortName>
+							<Path>SFX\Ambience Wind With Crickets 01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1250089922" Name="Button_Pressed" ObjectPath="\Events\Default Work Unit\Button_Pressed" DurationType="OneShot" DurationMin="0.473750" DurationMax="0.473750">
+					<IncludedMemoryFiles>
+						<File Id="1019375486" Language="SFX">
+							<ShortName>Cartoon Toy Squeak 01.wav</ShortName>
+							<Path>SFX\Cartoon Toy Squeak 01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3048058352" Name="Random" ObjectPath="\Events\Default Work Unit\Random" DurationType="OneShot" DurationMin="0.261333" DurationMax="0.781333">
+					<IncludedMemoryFiles>
+						<File Id="108468911" Language="SFX">
+							<ShortName>Foley Footstep Golf Cleats Jump On Cement Single 01.wav</ShortName>
+							<Path>SFX\Foley Footstep Golf Cleats Jump On Cement Single 01_10C4C929.wem</Path>
+						</File>
+						<File Id="308537910" Language="SFX">
+							<ShortName>Foley Footstep Golf Cleats Jump On Hollow Wood Surface Single 01.wav</ShortName>
+							<Path>SFX\Foley Footstep Golf Cleats Jump On Hollow Wood Surface Single 01_10C4C929.wem</Path>
+						</File>
+						<File Id="752430398" Language="SFX">
+							<ShortName>Foley Footstep Golf Cleats Jump On Hollow Wood Surface Quick 01.wav</ShortName>
+							<Path>SFX\Foley Footstep Golf Cleats Jump On Hollow Wood Surface Quick 01_10C4C929.wem</Path>
+						</File>
+						<File Id="936431550" Language="SFX">
+							<ShortName>Foley Footstep Golf Cleats Dirt Debris Single Step 02.wav</ShortName>
+							<Path>SFX\Foley Footstep Golf Cleats Dirt Debris Single Step 02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="311444866" Name="Sequence" ObjectPath="\Events\Default Work Unit\Sequence" DurationType="OneShot" DurationMin="9.514563" DurationMax="9.514563">
+					<IncludedMemoryFiles>
+						<File Id="142266203" Language="SFX">
+							<ShortName>Sports Basketball Shoot 01.wav</ShortName>
+							<Path>SFX\Sports Basketball Shoot 01_10C4C929.wem</Path>
+						</File>
+						<File Id="398298164" Language="SFX">
+							<ShortName>Sports Basketball Single Bounce 01.wav</ShortName>
+							<Path>SFX\Sports Basketball Single Bounce 01_10C4C929.wem</Path>
+						</File>
+						<File Id="413057639" Language="SFX">
+							<ShortName>Sports Basketball Bounce 01.wav</ShortName>
+							<Path>SFX\Sports Basketball Bounce 01_10C4C929.wem</Path>
+						</File>
+						<File Id="522642221" Language="SFX">
+							<ShortName>Sports Basketball Bounce Catch 02.wav</ShortName>
+							<Path>SFX\Sports Basketball Bounce Catch 02_10C4C929.wem</Path>
+						</File>
+						<File Id="914194585" Language="SFX">
+							<ShortName>Sports Basketball Bounce 02.wav</ShortName>
+							<Path>SFX\Sports Basketball Bounce 02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3791779620">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

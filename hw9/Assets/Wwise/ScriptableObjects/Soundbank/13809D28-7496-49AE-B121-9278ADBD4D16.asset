@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7bbedc791af9ac43be26a95d1ea1a53, type: 3}
+  m_Name: 13809D28-7496-49AE-B121-9278ADBD4D16
+  m_EditorClassIdentifier: 
+  objectName: hw9
+  id: 680180671
+  guid: 13809D28-7496-49AE-B121-9278ADBD4D16

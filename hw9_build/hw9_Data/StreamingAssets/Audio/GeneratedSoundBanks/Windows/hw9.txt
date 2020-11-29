@@ -1,0 +1,20 @@
+Event	ID	Name			Wwise Object Path	Notes
+	311444866	Sequence			\Default Work Unit\Sequence	
+	1250089922	Button_Pressed			\Default Work Unit\Button_Pressed	
+	3048058352	Random			\Default Work Unit\Random	
+	3916118898	Blend			\Default Work Unit\Blend	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	108468911	Foley Footstep Golf Cleats Jump On Cement Single 01	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Foley Footstep Golf Cleats Jump On Cement Single 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random\Foley Footstep Golf Cleats Jump On Cement Single 01		50240
+	142266203	Sports Basketball Shoot 01	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Sports Basketball Shoot 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sequence\Sports Basketball Shoot 01		1342676
+	190179930	Ambience Ocean Shore 01	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Ambience Ocean Shore 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Blend\Ambience Ocean Shore 01		17300672
+	259258599	Ambience Wind With Crickets 01	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Ambience Wind With Crickets 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Blend\Ambience Wind With Crickets 01		17301568
+	308537910	Foley Footstep Golf Cleats Jump On Hollow Wood Surface Single 01	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Foley Footstep Golf Cleats Jump On Hollow Wood Surface Single 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random\Foley Footstep Golf Cleats Jump On Hollow Wood Surface Single 01		150080
+	398298164	Sports Basketball Single Bounce 01	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Sports Basketball Single Bounce 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sequence\Sports Basketball Single Bounce 01		83572
+	413057639	Sports Basketball Bounce 01	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Sports Basketball Bounce 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sequence\Sports Basketball Bounce 01		140024
+	522642221	Sports Basketball Bounce Catch 02	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Sports Basketball Bounce Catch 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sequence\Sports Basketball Bounce Catch 02		191628
+	752430398	Foley Footstep Golf Cleats Jump On Hollow Wood Surface Quick 01	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Foley Footstep Golf Cleats Jump On Hollow Wood Surface Quick 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random\Foley Footstep Golf Cleats Jump On Hollow Wood Surface Quick 01		143348
+	914194585	Sports Basketball Bounce 02	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Sports Basketball Bounce 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sequence\Sports Basketball Bounce 02		69216
+	936431550	Foley Footstep Golf Cleats Dirt Debris Single Step 02	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Foley Footstep Golf Cleats Dirt Debris Single Step 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random\Foley Footstep Golf Cleats Dirt Debris Single Step 02		86592
+	1019375486	Cartoon Toy Squeak 01	D:\Audiokinetic\Projects\hw9\.cache\Windows\SFX\Cartoon Toy Squeak 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cartoon Toy Squeak 01		91024
+
